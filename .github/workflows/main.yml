@@ -17,4 +17,4 @@ jobs:
         server: ftp.aimnode.com
         username: travelling_partner@travelingpartner.myportfolios.website
         password: TravellingPartnerPassword
-        server-dir: /public_html/travelingpartner.myportfolios.website
+        server-dir: /public_html/travelingpartner.myportfolios.website/
